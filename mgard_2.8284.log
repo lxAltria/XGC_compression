@@ -3,9 +3,9 @@ absolute error = 1e16
 Data = xgc_f64.dat
 Required eb = 1e+16
 scaling factor = 2.8284
-Compression time: 6.3691s
+Compression time: 7.55975s
 131160 39 39 
-Decompression time: 5.45636s
+Decompression time: 6.29538s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 5.41279e+15, pos = 162659041
 MSE = 1.49124e+29, PSNR = 71.6869
@@ -18,20 +18,20 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 0.07259806079186017, rmse = 8.185928548871128e+17
-u_para, shape = (8, 16395): relative L-inf error = 0.18282085183626903, rmse = 8605.185537924564
-T_perp, shape = (8, 16395): relative L-inf error = 0.05620128762970523, rmse = 71.6365311324033
-T_para, shape = (8, 16395): relative L-inf error = 0.10601994948682768, rmse = 172.66863682166027
-n0_avg, shape = (16395,): relative L-inf error = 0.016478547413115323, rmse = 1.5561398925367104e+17
-T0_avg, shape = (16395,): relative L-inf error = 0.012057292170650682, rmse = 19.891894783680993
+density, shape = (8, 16395): L-inf error = 0.07333567552688354, rmse = 8.185928548871128e+17
+u_para, shape = (8, 16395): L-inf error = 0.29055204988616384, rmse = 8605.185537924564
+T_perp, shape = (8, 16395): L-inf error = 0.05563943817589805, rmse = 71.6365311324033
+T_para, shape = (8, 16395): L-inf error = 0.11116899843990573, rmse = 172.66863682166027
+n0_avg, shape = (16395,): L-inf error = 0.015196897238221527, rmse = 1.5561398925367104e+17
+T0_avg, shape = (16395,): L-inf error = 0.011767496265645518, rmse = 19.891894783680993
 absolute error = 5e15
 131160 39 39 
 Data = xgc_f64.dat
 Required eb = 5e+15
 scaling factor = 2.8284
-Compression time: 6.5345s
+Compression time: 7.27462s
 131160 39 39 
-Decompression time: 5.61008s
+Decompression time: 6.19558s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 2.66349e+15, pos = 152870155
 MSE = 6.03111e+28, PSNR = 75.6184
@@ -44,20 +44,20 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 0.054665613835214205, rmse = 5.326742243323903e+17
-u_para, shape = (8, 16395): relative L-inf error = 0.11413213745729757, rmse = 4625.014390308667
-T_perp, shape = (8, 16395): relative L-inf error = 0.04665222035293639, rmse = 49.636903067068374
-T_para, shape = (8, 16395): relative L-inf error = 0.07613434731748073, rmse = 90.69093195362424
-n0_avg, shape = (16395,): relative L-inf error = 0.0072888814659816436, rmse = 6.114800280805577e+16
-T0_avg, shape = (16395,): relative L-inf error = 0.013063609089809239, rmse = 15.640873744067232
+density, shape = (8, 16395): L-inf error = 0.05521032447672228, rmse = 5.326742243323903e+17
+u_para, shape = (8, 16395): L-inf error = 0.17973338939730718, rmse = 4625.014390308667
+T_perp, shape = (8, 16395): L-inf error = 0.0464310508780843, rmse = 49.636903067068374
+T_para, shape = (8, 16395): L-inf error = 0.07921435859024965, rmse = 90.69093195362424
+n0_avg, shape = (16395,): L-inf error = 0.006775226897760041, rmse = 6.114800280805577e+16
+T0_avg, shape = (16395,): L-inf error = 0.012815268343178364, rmse = 15.640873744067232
 absolute error = 1e15
 131160 39 39 
 Data = xgc_f64.dat
 Required eb = 1e+15
 scaling factor = 2.8284
-Compression time: 6.90043s
+Compression time: 7.14071s
 131160 39 39 
-Decompression time: 6.03293s
+Decompression time: 6.54099s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 5.6399e+14, pos = 183833491
 MSE = 6.06573e+27, PSNR = 85.5936
@@ -70,20 +70,20 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 0.017960245575599592, rmse = 1.493787086925251e+17
-u_para, shape = (8, 16395): relative L-inf error = 0.03446655263795195, rmse = 1112.1647203844789
-T_perp, shape = (8, 16395): relative L-inf error = 0.014886537590101181, rmse = 13.24185322790204
-T_para, shape = (8, 16395): relative L-inf error = 0.025246884414540333, rmse = 23.91516713490088
-n0_avg, shape = (16395,): relative L-inf error = 0.0010704670320164143, rmse = 1.3885903020414238e+16
-T0_avg, shape = (16395,): relative L-inf error = 0.004070821200283214, rmse = 5.838279771942832
+density, shape = (8, 16395): L-inf error = 0.01798895554832312, rmse = 1.493787086925251e+17
+u_para, shape = (8, 16395): L-inf error = 0.053007045664536664, rmse = 1112.1647203844789
+T_perp, shape = (8, 16395): L-inf error = 0.014980203339398137, rmse = 13.24185322790204
+T_para, shape = (8, 16395): L-inf error = 0.02558092330903264, rmse = 23.91516713490088
+n0_avg, shape = (16395,): L-inf error = 0.0009902070076346179, rmse = 1.3885903020414238e+16
+T0_avg, shape = (16395,): L-inf error = 0.004024344677454274, rmse = 5.838279771942832
 absolute error = 5e14
 131160 39 39 
 Data = xgc_f64.dat
 Required eb = 5e+14
 scaling factor = 2.8284
-Compression time: 7.21357s
+Compression time: 7.50014s
 131160 39 39 
-Decompression time: 6.67984s
+Decompression time: 7.0908s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 2.59142e+14, pos = 107820671
 MSE = 2.05153e+27, PSNR = 90.3016
@@ -96,20 +96,20 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 0.010334468373635722, rmse = 8.25704956156532e+16
-u_para, shape = (8, 16395): relative L-inf error = 0.014419105567439985, rmse = 617.9814302655387
-T_perp, shape = (8, 16395): relative L-inf error = 0.00831016802612836, rmse = 7.397931266591929
-T_para, shape = (8, 16395): relative L-inf error = 0.018041284479713954, rmse = 15.157515887059269
-n0_avg, shape = (16395,): relative L-inf error = 0.0004858514188101166, rmse = 5671876036839496.0
-T0_avg, shape = (16395,): relative L-inf error = 0.0017064354430084666, rmse = 2.492649665319522
+density, shape = (8, 16395): L-inf error = 0.01032915403892375, rmse = 8.25704956156532e+16
+u_para, shape = (8, 16395): L-inf error = 0.02211084945722468, rmse = 617.9814302655387
+T_perp, shape = (8, 16395): L-inf error = 0.00833007112842184, rmse = 7.397931266591929
+T_para, shape = (8, 16395): L-inf error = 0.018225931196869438, rmse = 15.157515887059269
+n0_avg, shape = (16395,): L-inf error = 0.00044952521310346943, rmse = 5671876036839496.0
+T0_avg, shape = (16395,): L-inf error = 0.0016865711015397642, rmse = 2.492649665319522
 absolute error = 1e14
 131160 39 39 
 Data = xgc_f64.dat
 Required eb = 1e+14
 scaling factor = 2.8284
-Compression time: 7.58214s
+Compression time: 7.95479s
 131160 39 39 
-Decompression time: 7.15286s
+Decompression time: 7.68829s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 5.60654e+13, pos = 109676287
 MSE = 1.34103e+26, PSNR = 102.148
@@ -122,20 +122,20 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 0.00162922181735057, rmse = 1.2972479471336962e+16
-u_para, shape = (8, 16395): relative L-inf error = 0.003999490740731651, rmse = 160.09845783351443
-T_perp, shape = (8, 16395): relative L-inf error = 0.00282709923967635, rmse = 2.0616176918015765
-T_para, shape = (8, 16395): relative L-inf error = 0.004131372953084563, rmse = 3.558301684317825
-n0_avg, shape = (16395,): relative L-inf error = 4.447499408798473e-05, rmse = 604800694641803.5
-T0_avg, shape = (16395,): relative L-inf error = 0.00016709343730179454, rmse = 0.26056627169468
+density, shape = (8, 16395): L-inf error = 0.0016278367807686744, rmse = 1.2972479471336962e+16
+u_para, shape = (8, 16395): L-inf error = 0.00616804642825506, rmse = 160.09845783351443
+T_perp, shape = (8, 16395): L-inf error = 0.0028194204495579937, rmse = 2.0616176918015765
+T_para, shape = (8, 16395): L-inf error = 0.00413794714374156, rmse = 3.558301684317825
+n0_avg, shape = (16395,): L-inf error = 4.113098468438674e-05, rmse = 604800694641803.5
+T0_avg, shape = (16395,): L-inf error = 0.00016484571593527515, rmse = 0.26056627169468
 absolute error = 5e13
 131160 39 39 
 Data = xgc_f64.dat
 Required eb = 5e+13
 scaling factor = 2.8284
-Compression time: 7.56262s
+Compression time: 7.82983s
 131160 39 39 
-Decompression time: 7.47097s
+Decompression time: 8.32877s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 2.88834e+13, pos = 184787821
 MSE = 3.80634e+25, PSNR = 107.617
@@ -148,20 +148,20 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 0.000708183295608226, rmse = 6341472897372898.0
-u_para, shape = (8, 16395): relative L-inf error = 0.0028305803036560457, rmse = 88.87324436707895
-T_perp, shape = (8, 16395): relative L-inf error = 0.0014890438953973162, rmse = 1.1184137704078216
-T_para, shape = (8, 16395): relative L-inf error = 0.0024076703127913802, rmse = 2.0153960914776365
-n0_avg, shape = (16395,): relative L-inf error = 3.923018588625721e-05, rmse = 289713826583763.94
-T0_avg, shape = (16395,): relative L-inf error = 0.0001375611838132802, rmse = 0.15282577429424096
+density, shape = (8, 16395): L-inf error = 0.0007072622716580591, rmse = 6341472897372898.0
+u_para, shape = (8, 16395): L-inf error = 0.004369912664525411, rmse = 88.87324436707895
+T_perp, shape = (8, 16395): L-inf error = 0.0014863604627328513, rmse = 1.1184137704078216
+T_para, shape = (8, 16395): L-inf error = 0.0024092145821297474, rmse = 2.0153960914776365
+n0_avg, shape = (16395,): L-inf error = 3.628289284072974e-05, rmse = 289713826583763.94
+T0_avg, shape = (16395,): L-inf error = 0.0001357403524313107, rmse = 0.15282577429424096
 absolute error = 1e13
 131160 39 39 
 Data = xgc_f64.dat
 Required eb = 1e+13
 scaling factor = 2.8284
-Compression time: 7.93907s
+Compression time: 8.08701s
 131160 39 39 
-Decompression time: 8.85562s
+Decompression time: 9.53463s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 5.42727e+12, pos = 142227189
 MSE = 1.86005e+24, PSNR = 120.727
@@ -174,20 +174,20 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 0.0001480767557248841, rmse = 1274061568016093.0
-u_para, shape = (8, 16395): relative L-inf error = 0.0006563671867047766, rmse = 22.0656306200661
-T_perp, shape = (8, 16395): relative L-inf error = 0.0003590327617402232, rmse = 0.26033850829253213
-T_para, shape = (8, 16395): relative L-inf error = 0.0006492610189114483, rmse = 0.5079197837798378
-n0_avg, shape = (16395,): relative L-inf error = 3.3243197719732768e-06, rmse = 61989056238722.78
-T0_avg, shape = (16395,): relative L-inf error = 2.6309166562164186e-05, rmse = 0.031220104158135323
+density, shape = (8, 16395): L-inf error = 0.0001479075883217116, rmse = 1274061568016093.0
+u_para, shape = (8, 16395): L-inf error = 0.001013209936328322, rmse = 22.0656306200661
+T_perp, shape = (8, 16395): L-inf error = 0.00035846518558323756, rmse = 0.26033850829253213
+T_para, shape = (8, 16395): L-inf error = 0.0006488970417915467, rmse = 0.5079197837798378
+n0_avg, shape = (16395,): L-inf error = 3.0744936092250697e-06, rmse = 61989056238722.78
+T0_avg, shape = (16395,): L-inf error = 2.5959175520699435e-05, rmse = 0.031220104158135323
 absolute error = 5e12
 131160 39 39 
 Data = xgc_f64.dat
 Required eb = 5e+12
 scaling factor = 2.8284
-Compression time: 8.34539s
+Compression time: 8.23611s
 131160 39 39 
-Decompression time: 9.48258s
+Decompression time: 9.97365s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 2.71948e+12, pos = 54123295
 MSE = 4.92413e+23, PSNR = 126.499
@@ -200,20 +200,20 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 8.149042287850798e-05, rmse = 641525120883688.1
-u_para, shape = (8, 16395): relative L-inf error = 0.00035571202492888887, rmse = 11.815697587182642
-T_perp, shape = (8, 16395): relative L-inf error = 0.00022015964738776025, rmse = 0.13533990112895022
-T_para, shape = (8, 16395): relative L-inf error = 0.00036929893651451665, rmse = 0.2789191088417033
-n0_avg, shape = (16395,): relative L-inf error = 3.3277329939668806e-06, rmse = 34115281136938.035
-T0_avg, shape = (16395,): relative L-inf error = 1.091433010923112e-05, rmse = 0.014777364317277384
+density, shape = (8, 16395): L-inf error = 8.139656497692704e-05, rmse = 641525120883688.1
+u_para, shape = (8, 16395): L-inf error = 0.0005491004579475162, rmse = 11.815697587182642
+T_perp, shape = (8, 16395): L-inf error = 0.00021980156400064072, rmse = 0.13533990112895022
+T_para, shape = (8, 16395): L-inf error = 0.000369102952831177, rmse = 0.2789191088417033
+n0_avg, shape = (16395,): L-inf error = 3.077649706426569e-06, rmse = 34115281136938.035
+T0_avg, shape = (16395,): L-inf error = 1.0768939806055927e-05, rmse = 0.014777364317277384
 absolute error = 1e12
 131160 39 39 
 Data = xgc_f64.dat
 Required eb = 1e+12
 scaling factor = 2.8284
-Compression time: 7.84885s
+Compression time: 8.0688s
 131160 39 39 
-Decompression time: 11.5875s
+Decompression time: 12.2984s
 Max value = 1.48293e+18, min value = 3154.32
 Max error = 5.53598e+11, pos = 92782521
 MSE = 2.11203e+22, PSNR = 140.175
@@ -226,9 +226,9 @@ Reading: xgc.equil.bp
 sml_00_npsi, sml_inpsi, sml_outpsi= 400 0.0 1.1
 sml_nphi_total= 8
 
-density, shape = (8, 16395): relative L-inf error = 1.8330082277400278e-05, rmse = 131309736497742.52
-u_para, shape = (8, 16395): relative L-inf error = 7.287122646408646e-05, rmse = 2.555185436691417
-T_perp, shape = (8, 16395): relative L-inf error = 4.1165715145894045e-05, rmse = 0.02958483156387528
-T_para, shape = (8, 16395): relative L-inf error = 9.346948070663999e-05, rmse = 0.062705528480473
-n0_avg, shape = (16395,): relative L-inf error = 8.387619136037256e-07, rmse = 4823745649561.022
-T0_avg, shape = (16395,): relative L-inf error = 1.735443577632659e-06, rmse = 0.002656621121232419
+density, shape = (8, 16395): L-inf error = 1.830884863438834e-05, rmse = 131309736497742.52
+u_para, shape = (8, 16395): L-inf error = 0.00011248933325633935, rmse = 2.555185436691417
+T_perp, shape = (8, 16395): L-inf error = 4.109880077232183e-05, rmse = 0.02958483156387528
+T_para, shape = (8, 16395): L-inf error = 9.342301806139341e-05, rmse = 0.062705528480473
+n0_avg, shape = (16395,): L-inf error = 7.757276298613909e-07, rmse = 4823745649561.022
+T0_avg, shape = (16395,): L-inf error = 1.712316981923671e-06, rmse = 0.002656621121232419
